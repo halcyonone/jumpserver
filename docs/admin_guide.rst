@@ -6,11 +6,11 @@
 .. toctree::
    :maxdepth: 1
 
-   quick_start
+   admin_instruction
+   admin_create_asset
    admin_user
    admin_asset
-   admin_perms
-   admin_terminal
-   admin_ops
-   admin_audits
-   admin_settings
+   admin_permission
+   admin_session
+   admin_work_center
+   admin_system_settings

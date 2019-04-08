@@ -12,7 +12,7 @@ Jumpserver 文档
    :maxdepth: 2
 
    introduce
-   step_by_step
+   installation
    admin_guide
    user_guide
    development
